@@ -65,7 +65,7 @@ python bot.py
 ```
 
 Pastikan file `cookies.txt` telah diisi dengan session token:
-
+`klik F12, pada Tab Network klik session, dan pada baris cookie terdapat connect.sid=xxx`
 ```text
 connect.sid=xxxx (token akun 1)
 connect.sid=xxxx (token akun 2)
