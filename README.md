@@ -84,7 +84,7 @@ http://ip:port
 2. Menyelesaikan semua task otomatis
 3. Spin harian otomatis
 4. Check-in otomatis setelah spin
-5. Auto countdown 24 jam untuk spin berikutnya
+5. Auto countdown 24 jam untuk spin dan Check-in berikutnya
 
 ---
 
